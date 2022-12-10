@@ -7,7 +7,7 @@ This is a Informational bot application developoed for learner's related to give
 
 
 ## Project title:
-       Organic Farming
+       courses
     
    
 ## Project description 😃 :
@@ -27,7 +27,7 @@ I have created a informational bot named "courses" using Html and services like 
 - "courses ChatBot" looks like a professional bot where you can find (or) know information about "courses".
 - Bot contains information about courses offered like i.e; HTML,CSS,etc..
 - we provided Gallery in home page to find more and also official website with links with innovative ideas ; go through it.
--Organic Farming ChatBot useful for both learners and explorers.
-- Main concept that my bot gives;About Organic Farming,how it works, history, full forms and detailed view of Organic Farming.
-## Screenshorts:
+- courses ChatBot useful for both learners and explorers.
+- Main concept that my bot gives;About courses,how it works, history, full forms and detailed view of courses.
+
 
