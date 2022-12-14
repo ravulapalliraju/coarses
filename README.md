@@ -30,5 +30,7 @@ I have created a informational bot named "courses" using Html and services like 
 - courses ChatBot useful for both learners and explorers.
 - Main concept that my bot gives;About courses,how it works, history, full forms and detailed view of courses.
 ## screenshots :
-
+-<img width="1064" alt="s1" src="https://user-images.githubusercontent.com/110820703/207553308-d284ce38-791a-4511-a313-32a9ba7fec84.png">
+-<img width="1080" alt="s2" src="https://user-images.githubusercontent.com/110820703/207553412-2b1dc852-67d9-420b-b642-efb0491235f1.png">
+-<img width="1080" alt="s3" src="https://user-images.githubusercontent.com/110820703/207553450-aecb339b-2c88-459d-bcb9-06954f110065.png">
 
