@@ -29,5 +29,6 @@ I have created a informational bot named "courses" using Html and services like 
 - we provided Gallery in home page to find more and also official website with links with innovative ideas ; go through it.
 - courses ChatBot useful for both learners and explorers.
 - Main concept that my bot gives;About courses,how it works, history, full forms and detailed view of courses.
+## screenshots :
 
 
